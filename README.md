@@ -5,6 +5,8 @@
 
 ### Graphic designer, teacher and becoming a developer  
 
+
+About| me
 |--- | --- | 
 |Birthday | 08-10 |
 |Gender | Female|
