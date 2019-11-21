@@ -2,7 +2,7 @@
 
 *Don't avoid the problem, push through the problem*  
 
-![img](https://github.com/account)  
+![img](https://avatars0.githubusercontent.com/u/49040881?s=460&v=4)  
   
 
 ### Graphic designer, teacher and becoming a developer  
