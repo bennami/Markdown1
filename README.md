@@ -37,4 +37,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< [next](http://github.com) || IMANE || [next](http://github.com) >>
+<< [next](https://github.com/erick-medina/Markdown-PHPSTORM/blob/master/README.md) || IMANE || [next](https://github.com/Irina-sku/markdown/blob/master/readme.md) >>
