@@ -17,11 +17,11 @@ About| me
 
 
 ### Hobbies
-..* drawing 
-..* cooking 
-..*watching movies 
-    ..*The Joker
-    ..*Star Wars
+* drawing 
+* cooking 
+*watching movies 
+    *The Joker
+    *Star Wars
 
 #### You can always count on me when
 When i understand something, i can be quite good at explaining and guiding you through it.
