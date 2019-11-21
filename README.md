@@ -13,7 +13,7 @@ About| me
 |Birthday | 08-10 |
 |Gender | Female|
 |Favorite food | everything that involes potatoes 
-|Pineapple on pizza | yes[checkbox:unchecked]  yes [checkbox:checked] |
+|Pineapple on pizza | yes &#9744 no &#9745 |
 
 
 
