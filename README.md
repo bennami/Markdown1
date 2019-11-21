@@ -1,7 +1,9 @@
 # Imane
 
-*Don't avoid the problem, push through the problem*
+*Don't avoid the problem, push through the problem*  
 
+![img](https://github.com/account)  
+  
 
 ### Graphic designer, teacher and becoming a developer  
 
