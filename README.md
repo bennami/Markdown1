@@ -32,9 +32,5 @@ I had a meeting and i was quite late. I decided to take the car even though I ca
 ###### TL;DR
 got a fine for taking the car so i wont be late to the meeting and the meeting was not on that day.
 
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
 
 << [next](https://github.com/erick-medina/Markdown-PHPSTORM/blob/master/README.md) || IMANE || [next](https://github.com/Irina-sku/markdown/blob/master/readme.md) >>
